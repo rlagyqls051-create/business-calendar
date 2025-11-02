@@ -1,0 +1,5 @@
+{
+  "name": "Team Schedule Calendar",
+  "description": "A calendar-based application to manage and assign tasks like filming and editing to team members for different clients. It allows filtering schedules by person and client.",
+  "requestFramePermissions": []
+}
